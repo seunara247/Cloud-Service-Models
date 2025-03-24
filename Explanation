@@ -1,0 +1,20 @@
+This ia a write up identifying examples of cloud service models with examples from my daily interaction.
+
+## Cloud Service Models
+
+Cloud Computing services are categorised into three main models, they include 
+
+- IaaS - Infrastructure as a Service
+
+- PaaS - Platform as a Service
+
+- SaaS - Software as a Service 
+
+Each model offers different level of control, flexibility and management. To make it easier, think of the cloud services as renting different parts of a house:
+
+- IaaS is like renting an empty house while you get the physical infrastructure (compute, power, storage, networking) you must install and manage everything else. Examples are AWS EC2, Google Compute engine, Microsoft Azure Virtual Machine.
+
+- PaaS is like renting an already furnished apartment, you pre-configure the environment where you can deploy applications without worrying about managing infrastructure. Examples are AWS Elastic Beanstalk, Microsoft Azure App Service, Google App Engine.
+
+-SaaS is like renting a hotel room where you have everything (application) fully managed and users can have access to it through the internet. Examples are Google Drive, Microsoft 365(Office 365), Dropbox.
+
